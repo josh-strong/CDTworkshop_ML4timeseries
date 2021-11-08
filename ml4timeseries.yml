@@ -140,4 +140,7 @@ dependencies:
     - sklearn==0.0
     - statsmodels==0.13.0
     - threadpoolctl==3.0.0
-prefix: /home/scro3203/anaconda3/envs/ml4timeseries
+    - torch==1.10.0
+    - tqdm==4.62.3
+    - typing-extensions==3.10.0.2
+prefix: /home/engs2258/anaconda3/envs/ml4timeseries
