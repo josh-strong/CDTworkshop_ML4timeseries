@@ -4,9 +4,9 @@ HDS-M05: Module - Machine Learning for Time Series <br>
 November 8 - 12, 2021 <br>
 
 Course designed by: <br>
-| Dr. Andrew Creagh      | Dr. Anshul Thaker | Dr. Davide Morelli | Prof. David Clifton
+| Dr. Andrew Creagh      | Dr. Anshul Thakur | Dr. Davide Morelli | Prof. David Clifton
 | :---: | :---: | :---: | :---: |
-| <andrew.creagh@eng.ox.ac.uk>      | <anshul.thaker@eng.ox.ac.uk>   | davide.morelli@eng.ox.ac.uk  | <david.clifton@eng.ox.ac.uk> |
+| <andrew.creagh@eng.ox.ac.uk>      | <anshul.thakur@eng.ox.ac.uk>   | davide.morelli@eng.ox.ac.uk  | <david.clifton@eng.ox.ac.uk> |
 
 
 <img src="./img/oxford_eng_logo.png" width="500" height="150" />
