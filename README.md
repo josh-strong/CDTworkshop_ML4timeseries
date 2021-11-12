@@ -27,7 +27,7 @@ This repository aims to introduce the basics of applying machine learning (ML) t
 5. ML 4 time-series: Getting started with Gaussian processes (lecture slides)
 6. ML 4 time-series: Advanced Gaussian processes (lecture slides)
 7. ML 4 time-series: Introduction to Survival Analysis (lecture slides)
-8. ML 4 time-series: Deep survival Analysis ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-Deep_survival_analysis_DM.pdf)
+8. ML 4 time-series: Deep survival Analysis ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-Deep_survival_analysis_DM.pdf))
 
 Further lecture materials can be found on
 [canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/124779/pages/hds-m05-module-info-machine-learning-for-time-series)
