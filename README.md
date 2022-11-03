@@ -34,18 +34,18 @@ This repository aims to introduce the basics of applying machine learning (ML) t
 ## Lecture Materials: AI/ML 4 time-series
 - Day 1: Introduction to time-series analysis (lecture slides)
 - Day 1: State-of-the art of AI/ML 4 time-series (lecture slides)
-- Lab 1: Essential Methodology ([lab](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/2022/labs/lab_1))
+- Lab 1: Essential Methodology ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/2022/labs/lab_1))
 ---
 - Day 2: Getting started with Gaussian processes (lecture slides)
 - Day 2: Advanced Gaussian processes (lecture slides)
-- Lab 2: Gaussian processes ([lab](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/2022/labs/lab_2))
+- Lab 2: Gaussian processes ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/2022/labs/lab_2))
 ---
-- Day 3: Recurrent Neural Networks ([lecture slides]())
-- Day 3: Advanced Recurrent Neural Networks ([lecture slides]())
+- Day 3: Recurrent Neural Networks (lecture slides)
+- Day 3: Advanced Recurrent Neural Networks (lecture slides)
 ---
-- Day 4: Transformations ([lecture slides]())
-- Day 4: Learning time-series features ([lecture slides]())
-- Lab 3: Recurrent Neural Networks ([lab](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/2022/labs/lab_3))
+- Day 4: Transformations (lecture slides)
+- Day 4: Learning time-series features (lecture slides)
+- Lab 3: Recurrent Neural Networks ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/2022/labs/lab_3))
 ---
 - Day 5: Deep Survival Analysis (lecture slides)
 - Day 5: AI/ML 4 clincial time-series applications (lecture slides)
