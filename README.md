@@ -1,39 +1,61 @@
 # CDT Workshop ML 4 time-series
 ### The Oxford EPSRC CDT in Health Data Science
 HDS-M05: Module - Machine Learning for Time Series <br>
-November 8 - 12, 2021 <br>
+November 7 - 13, 2022 <br>
 
-Course designed by: <br>
-| Dr. Andrew Creagh      | Dr. Anshul Thakur | Dr. Davide Morelli | Prof. David Clifton
-| :---: | :---: | :---: | :---: |
-| <andrew.creagh@eng.ox.ac.uk>      | <anshul.thakur@eng.ox.ac.uk>   | davide.morelli@eng.ox.ac.uk  | <david.clifton@eng.ox.ac.uk> |
 
+## Lab Course Designers
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+   <td align="center"><a href="https://www.andrewcreagh.com/"><img src="https://avatars.githubusercontent.com/u/22932251?v=4" width="120px;" alt=""/><br /><sub><b>Dr. Andrew P. Creagh</b></sub> </a> </td>
+   <td align="center"><a href="https://eng.ox.ac.uk/people/anshul-thakur/"><img src="https://eng.ox.ac.uk/media/4496/photo_ath.jpg?center=0.33112582781456956,0.31168831168831168&mode=crop&width=250&height=250&rnd=132651141320000000" width="120px;" alt=""/><br /><sub><b>Dr. Anshul Thakur</b></sub> </a> </td>
+      <td align="center"><a href="https://eng.ox.ac.uk/people/tingting-zhu/"><img src="https://eng.ox.ac.uk/media/9549/photo_ttz2.jpg?center=0.30357142857142855,0.46745562130177515&mode=crop&width=100&height=100&rnd=132690066410000000" width="120px;" alt=""/><br /><sub><b>Dr. Tingting Zhu</b></sub> </a> </td>
+   <td align="center"><a href="https://eng.ox.ac.uk/people/david-clifton/"><img src="https://www.turing.ac.uk/sites/default/files/styles/people/public/2021-12/david_clifton.jpg?itok=PYtYVF5_" width="100px;" alt=""/><br /><sub><b>Prof. David Clifton</b></sub> </a> </td>
+    </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
 
 <img src="./img/oxford_eng_logo.png" width="500" height="150" />
 
 The Institute of Biomedical Engineering, <br />
 Department of Engineering Science,<br />
 University of Oxford<br />
+
 ## Lab Overview
 This repository aims to introduce the basics of applying machine learning (ML) to medical time-series data. In this module you will learn how ML for time-series is not immediately similar to traditional image-based or static modelling. You will learn the important pre-processing steps that are appropriate for time-series data, and how to frame the problem and task in time. This workshop will introduce fundamental time-series models, such as Autogresssive (AR) proceess, Markov Chains, and Hidden Markov Models (HMM), right through to Recurrent Neural Networks (RNNs) - staples of time-series data applied to healthcare problems. Later stages of this course cover advanced deep-learning based time-series models, such as Temporal Convolution Neural Networks (TCNN), an understanding of latent embeddings (such as with autoencoders, noisy autoencoders, variational autoencoders, etc.), as well as useful ML techniques, such as data augmentation and transfer leanring in medical time-series settings. <br>
 
-## Lecture Materials
-1. ML 4 time-series: Introduction to time-series analysis (lecture slides)
-1. ML 4 time-series: Essential Methodology ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/MT2021/doc/CDT_HDS_ML4timeseries-methods_AC.pdf))
-1. ML 4 time-series: Recurrent Neural Networks ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/MT2021/doc/CDT_HDS_ML4timeseries-RNN_AC.pdf))
-1. ML 4 time-series: Advanced Recurrent Neural Networks ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-Advanced_RNN_AT.pdf))
-3. ML 4 time-series: Transformations ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-Transforms_AT.pdf))
-4. ML 4 time-series: Convolutional Neural Networks ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/MT2021/doc/CDT_HDS_ML4Timeseries-CNN_AC.pdf))
-5. ML 4 time-series: Getting started with Gaussian processes (lecture slides)
-6. ML 4 time-series: Advanced Gaussian processes (lecture slides)
-7. ML 4 time-series: Introduction to Survival Analysis (lecture slides)
-8. ML 4 time-series: Deep survival Analysis ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-Deep_survival_analysis_DM.pdf))
+## Lecture Materials: AI/ML 4 time-series
+- Day 1: Introduction to time-series analysis (lecture slides)
+- Day 1: State-of-the art of AI/ML 4 time-series (lecture slides)
+- Lab 1: Essential Methodology ([lab]())
+---
+- Day 2: Getting started with Gaussian processes (lecture slides)
+- Day 2: Advanced Gaussian processes (lecture slides)
+- Lab 2: Gaussian processes ([lab]())
+---
+- Day 3: Recurrent Neural Networks ([lecture slides]())
+- Day 3: Advanced Recurrent Neural Networks ([lecture slides]())
+---
+- Day 4: Transformations ([lecture slides]())
+- Day 4: Learning time-series features ([lecture slides]())
+- Lab 3: Recurrent Neural Networks ([lab]())
+---
+- Day 5: Deep Survival Analysis (lecture slides)
+- Day 5: AI/ML 4 clincial time-series applications (lecture slides)
+- Lab 4: Panel discussion on  AI/ML 4 clincial time-series
 
 Further lecture materials can be found on
-[canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/124779/pages/hds-m05-module-info-machine-learning-for-time-series)
+[canvas.ox.ac.uk]()
 ## Data Access
 The accompanying pre-processed data for this module can be downloaded via 
-[canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/124779/pages/hds-m05-module-info-machine-learning-for-time-series)
+[canvas.ox.ac.uk]()
 
 ## Setup instructions on the Virtual Machines
 1. Load and initialize Anaconda. This needs to be done only once (you may not need to run this if you already see `(bash)` written in front of your prompt).
