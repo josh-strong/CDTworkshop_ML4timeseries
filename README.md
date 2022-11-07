@@ -34,7 +34,7 @@ This repository aims to introduce the basics of applying machine learning (ML) t
 ## Lecture Materials: AI/ML 4 time-series
 - Day 1: Introduction to time-series analysis (lecture slides)
 - Day 1: State-of-the art of AI/ML 4 time-series (lecture slides)
-- Lab 1: Essential Methodology ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/2022/labs/lab_1))
+- Lab 1: Essential Methodology ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/2022/labs/lab_1))([solutions](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/2022/solutions/lab_1/))
 ---
 - Day 2: Getting started with Gaussian processes (lecture slides)
 - Day 2: Advanced Gaussian processes (lecture slides)
@@ -52,7 +52,7 @@ This repository aims to introduce the basics of applying machine learning (ML) t
 - Lab 4: Panel discussion on  AI/ML 4 clincial time-series
 
 Further lecture materials can be found on
-[canvas.ox.ac.uk]()
+[canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/151592/pages/hds-m05-module-info-machine-learning-for-time-series)
 ## Data Access
 The accompanying pre-processed data for this module can be downloaded via 
 [canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/151592/files/4929999?wrap=1)
