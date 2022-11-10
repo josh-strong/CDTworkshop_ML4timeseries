@@ -38,7 +38,7 @@ This repository aims to introduce the basics of applying machine learning (ML) t
 ---
 - Day 2: Getting started with Gaussian processes (lecture slides)
 - Day 2: Advanced Gaussian processes ([lecture slides](https://canvas.ox.ac.uk/courses/151592/files/4934754?wrap=1))
-- Lab 2: Gaussian processes ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/labs/lab_2))
+- Lab 2: Gaussian processes ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/labs/lab_2))([solutions](https://github.com/apcreagh/CDTworkshop_ML4timeseries/tree/main/solutions/lab_2))
 ---
 - Day 3: Recurrent Neural Networks ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-RNN_2022.pdf))
 - Day 3: Advanced Recurrent Neural Networks and Multi-task learning ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-MTL-MTA_2022.pdf))
