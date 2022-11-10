@@ -40,16 +40,16 @@ This repository aims to introduce the basics of applying machine learning (ML) t
 - Day 2: Advanced Gaussian processes ([lecture slides](https://canvas.ox.ac.uk/courses/151592/files/4934754?wrap=1))
 - Lab 2: Gaussian processes ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/labs/lab_2))
 ---
-- Day 3: Recurrent Neural Networks (lecture slides)
-- Day 3: Advanced Recurrent Neural Networks (lecture slides)
+- Day 3: Recurrent Neural Networks ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-RNN_2022.pdf))
+- Day 3: Advanced Recurrent Neural Networks and Multi-task learning ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-MTL-MTA_2022.pdf))
 ---
-- Day 4: Transformations (lecture slides)
-- Day 4: Learning time-series features (lecture slides)
+- Day 4: Transformations ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-FFT_2022.pdf))
+- Day 4: Learning time-series features ([lecture slides](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/doc/CDT_HDS_ML4Timeseries-CNN_2022.pdf))
 - Lab 3: Recurrent Neural Networks ([lab materials](https://github.com/apcreagh/CDTworkshop_ML4timeseries/blob/main/labs/lab_3))
 ---
 - Day 5: Deep Survival Analysis (lecture slides)
 - Day 5: AI/ML 4 clincial time-series applications (lecture slides)
-- Lab 4: Panel discussion on  AI/ML 4 clincial time-series
+- Lab 4: Multi-task learning and Meta-learning for time-series ([lab materials](https://canvas.ox.ac.uk/courses/151592/files/4943018?))
 
 Further lecture materials can be found on
 [canvas.ox.ac.uk](https://canvas.ox.ac.uk/courses/151592/pages/hds-m05-module-info-machine-learning-for-time-series)
